@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+}
+
+.sectionPrincipal{
+    background-color: rgb(49, 49, 49);
+    margin-bottom: 10px;
+}
+
+ul li{
+    color: white;
+    list-style-type: none;
+}
+
+.txtHeaderWhite {
+    color: white;
+}
+
+.sectionNav{
+    background-color: #efa83d;
+    margin-bottom: 60px;
+}
+
+section h2, h5, h3{
+    text-align: center;
+}
+
+.txtProductosDestacados{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.comederosDescuento{
+
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 45%;
+    top: 300px;
+
+}
+
+.categoriasProductos{
+    color: rgb(151, 151, 151);
+}
+
+.precioProducto{
+    color: #efa83d;
+}
+
+.productosPetShop{
+    background-color: #faf9f4;
+}
+
+.footerIcons{
+    background-color: rgb(65, 41, 37);
+}
+
+footer section h4 {
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+
+footer section h6{
+    color: rgb(175, 175, 175);
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+
+#idMapa, #idTel, #idEmail{
+    color: white;
+    font-size: 50px;
+    background-color: rgb(107, 107, 107);
+    border-radius: 1000px   ;
+    padding: 20px;
+    margin: 10px;
+}
+
+footer section img {
+    color: white;
+}
+
+.derechosReservadosFooter{
+    margin-top: 10px;
+    background-color: #efa83d;
+    color: white;
+    text-align: center;
+}
+
+footer section p {
+    font-size: 18px;
+}
